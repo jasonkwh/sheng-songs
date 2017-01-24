@@ -1,2 +1,2 @@
 # sheng-songs
-Display songs to beloved girl Sheng BB...
+Display the songs I picked, to my beloved Sheng BB
