@@ -1,3 +1,4 @@
+<!DOCTYPE HTML>
 <?php
 /*
 Template Name: sankofa-songs
@@ -9,8 +10,7 @@ $time = date('H:i:s');
 $ourdate = "2016-09-20";
 $days = round((strtotime($date) - strtotime($ourdate)) / (60 * 60 * 24));
 $title = "給BB的歌單";
-?>
-<!DOCTYPE HTML>  
+?> 
 <html>
 <head>
 <title><?php echo $title ?></title>

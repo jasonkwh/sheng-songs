@@ -1,3 +1,4 @@
+<!DOCTYPE HTML>
 <?php
 /*
 Template Name: sankofa-songs-view
@@ -6,8 +7,7 @@ $current_user = wp_get_current_user();
 $r = 0;
 $title = "給BB的歌單";
 
-?>
-<!DOCTYPE HTML>  
+?> 
 <html>
 <head>
 <title><?php echo $title ?></title>
